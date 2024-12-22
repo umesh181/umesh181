@@ -24,7 +24,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=umesh181&" alt="umesh181" /></p>
 
-<div align="center">
-  <img height="200" src="https://giphy.com/embed/bcKmIWkUMCjVm"  />
-</div>
-
+<p align="right">
+  ![GIF via GIPHY](https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif)
+</p>
