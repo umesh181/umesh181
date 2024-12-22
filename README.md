@@ -24,6 +24,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=umesh181&" alt="umesh181" /></p>
 
-<p align="right">
-  ![GIF via GIPHY](https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif)
-</p>
+<p><img align="center" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcW1jbDgwMGh3dTNoazIzcHkwMGI3NzVoeG4zZzBxeWFqY3prampwbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bcKmIWkUMCjVm/giphy.webp" alt="umesh181" /></p>
