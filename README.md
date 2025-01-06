@@ -22,6 +22,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=umesh181&show_icons=true&locale=en" alt="umesh181" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=umesh181&" alt="umesh181" /></p>
+
 <table>
 <tr>
 <td><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=umesh181&" alt="umesh181" /></td>
