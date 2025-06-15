@@ -16,6 +16,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=umesh181&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=umesh181&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=umesh181&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=umesh181&theme=github-compact&hide_border=true" />
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=umesh181&theme=radical&no-frame=false&no-bg=false&margin-w=4)
