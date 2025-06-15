@@ -1,5 +1,10 @@
+<h1 align="center">Hi 👋, I'm Umesh</h1>
+<h3 align="center">I'm a Software Developer based in India</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=umesh181&label=Profile%20views&color=0e75b6&style=flat" alt="umesh181" /> </p>
+
 # 💫 About Me:
-🔭 I’m currently working on Pingster<br><br>👨‍💻 All of my projects are available at https://bobburi-umesh.web.app/<br><br>📫 How to reach me bobburiumesh@gmail.com
+🔭 I’m currently working on [Pingster](https://github.com/umesh181/pingster)<br><br>👨‍💻 All of my projects are available at https://bobburi-umesh.web.app/<br><br>📫 How to reach me bobburiumesh@gmail.com
 
 
 ## 🌐 Socials:
