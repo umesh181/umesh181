@@ -20,6 +20,9 @@
 
 
 ## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=umesh181&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
+
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=umesh181&theme=dark&hide_border=false&count_private=true&layout=compact&cache_seconds=1800)
 
 
